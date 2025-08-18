@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://10012049.xyz</id>
+    <title>Jingle&apos;s Blog</title>
+    <updated>2025-08-18T03:13:45.559Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://10012049.xyz"/>
+    <link rel="self" href="https://10012049.xyz/atom.xml"/>
+    <logo>https://10012049.xyz/images/avatar.png</logo>
+    <icon>https://10012049.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2025, Jingle&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Jingle]]></title>
+        <id>https://10012049.xyz/post/hello/</id>
+        <link href="https://10012049.xyz/post/hello/">
+        </link>
+        <updated>2025-08-18T01:42:20.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<!-- more -->
+<p>👏  欢迎 <strong>博客</strong> 上线，新的域名，新的记录！</p>
+<!-- more -->
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
