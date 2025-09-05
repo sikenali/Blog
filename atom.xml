@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://10012049.xyz</id>
+    <title>Jingle&apos;s Blog</title>
+    <updated>2025-09-05T02:50:26.593Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://10012049.xyz"/>
+    <link rel="self" href="https://10012049.xyz/atom.xml"/>
+    <logo>https://10012049.xyz/images/avatar.png</logo>
+    <icon>https://10012049.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2025, Jingle&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[个人博客上线！]]></title>
+        <id>https://10012049.xyz/post/blog/</id>
+        <link href="https://10012049.xyz/post/blog/">
+        </link>
+        <updated>2025-09-01T01:42:20.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>早些年维护的博客由于工作忙碌，后因为域名过期等原因，一直没有维护起来，重新申请了<strong>小姨子</strong>域名，至于数字的含义，期待2049-10-01那天的到来。</p>
+<blockquote>
+<p>😂 由于20491001被人申请了，只能反其道而行。</p>
+</blockquote>
+]]></content>
+    </entry>
+</feed>
